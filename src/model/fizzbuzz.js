@@ -16,4 +16,3 @@ module.exports = (number) => {
   return result;
 }
 
-//aa testxxx2aaa2
